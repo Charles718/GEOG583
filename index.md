@@ -25,3 +25,23 @@ title: ArcGIS Embedded Map
   legend-enabled
   portal-url="https://sdsugeo.maps.arcgis.com">
 </arcgis-embedded-map>
+
+
+---
+layout: default
+title: Embedded Map
+---
+
+<!-- ArcGIS Script to load embeddable components -->
+<script type="module" src="https://js.arcgis.com/embeddable-components/4.32/arcgis-embeddable-components.esm.js"></script>
+
+<!-- ArcGIS Embedded Map Component -->
+<arcgis-embedded-map
+  style="height:600px; width:700px;"
+  item-id="abdeba1fb1ff4e56b5e72c1cb1cbc062"
+  theme="dark"
+  heading-enabled
+  legend-enabled
+  portal-url="https://sdsugeo.maps.arcgis.com">
+</arcgis-embedded-map>
+
