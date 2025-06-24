@@ -7,7 +7,7 @@ Here are a few things I might include later:
 * A way to contact me
 **Stay tuned for updates!**
 
-[View Interactive Map](https://www.google.com/maps/d/u/0/)
+
 
 <iframe><!-- Add script to the <head> of your page to load the embeddable map component -->
 <script type="module" src="https://js.arcgis.com/embeddable-components/4.32/arcgis-embeddable-components.esm.js"></script>
